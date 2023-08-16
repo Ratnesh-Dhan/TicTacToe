@@ -1,0 +1,13 @@
+.button {
+    width: 70px;
+}
+
+.container {
+    margin-top: 120px;
+    display: flex;
+    flex-direction: column;
+}
+
+.input-space {
+    margin-bottom: 10px;
+}

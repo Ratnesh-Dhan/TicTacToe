@@ -1,0 +1,30 @@
+.buttongame {
+    background-color: grey;
+    height: 50px;
+    width: 50px;
+    border: none;
+  }
+
+.tikgame {
+    background-color: white;
+    display: flex;
+    width : 190px;
+    height : 190px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+}
+
+.tiktaktoe {
+    margin-top: 100px;
+    display: flex;
+    /* width: 100vw; */
+    justify-content: center; 
+    margin-bottom: 50px;
+}
+
+#turns {
+    color: rgb(12, 46, 70); 
+    margin-bottom: 20;
+}

@@ -1,0 +1,13 @@
+.navbar {
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    color:blue;
+    list-style: none;
+}
+
+.link:hover {
+    color:#551A8B;
+    text-decoration: underline;
+    cursor: pointer;
+}

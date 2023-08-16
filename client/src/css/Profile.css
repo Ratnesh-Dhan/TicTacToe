@@ -1,0 +1,24 @@
+#received-challenge {
+    margin-top: 100px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: rgb(249, 2, 2);
+}
+
+#challenge-start-button {
+    margin-top: 10px;
+}
+
+#challenge-button:hover {
+    background-color: #28b72d;
+}
+
+#challenge-button {
+    padding: 15px 32px;
+    font-family: sans-serif;
+    font-weight: bold;  
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
